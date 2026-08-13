@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**chi-lala/chi-lala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analytics enthusiast with a background in Biological Engineering, interested in using data to solve real-world problems and build meaningful solutions. 
 
-Here are some ideas to get you started:
+------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 Currently Working On
+- Data science and analytics projects
+- Healthcare and business analytics
+- Building my skills in machine learning, SQL, and Python
+
+-------------------------------------
+
+### 🛠️ Tools & Tech
+- **Languages:** Python, R, SQL, MATLAB
+- **Analytics:** Pandas, Excel, Power BI, JMP
+- **Tools:** Jupyter Notebook, VS Code, RStudio, Git/GitHub
+
+--------------------------------------
+### ✨ A Bit About Me
+- 🐈 Cat person
+- 🍵 Tea drinker
+- 🧶 Crochet, knitting and crafting
+- 🏗️ Building things just because I can
