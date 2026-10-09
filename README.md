@@ -18,4 +18,4 @@ I'm a data analytics enthusiast with a background in Biological Engineering, int
 - 🐈 Cat person
 - 🍵 Tea drinker
 - 🧶 Crochet, knitting and crafting
-- 🏗️ Building things just because I can
+- 🧩 Mystery/puzzle solver 
